@@ -1,0 +1,26 @@
+{
+  "name": "get-ip-location",
+  "version": "1.0.0",
+  "description": "Get location of provided IP adress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khactrieu99/get-ip-location.git"
+  },
+  "keywords": [
+    "Javascript",
+    "GetIPLocation"
+  ],
+  "author": "Khac-Trieu Truong <khactrieu.personal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khactrieu99/get-ip-location/issues"
+  },
+  "homepage": "https://github.com/khactrieu99/get-ip-location#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
