@@ -1,7 +1,7 @@
 {
-  "name": "get-ip-location",
+  "name": "get-ip-region-name",
   "version": "1.0.0",
-  "description": "Get location of provided IP adress",
+  "description": "Get region name of provided IP adress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
